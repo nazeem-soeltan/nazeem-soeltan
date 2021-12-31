@@ -1,8 +1,19 @@
-### 👋 Hey, glad you are here!
+## 👋 Hi there! My name is Nazeem Soeltan.
 
-Welcome to my page! My name is Nazeem. I'm a _Senior Software Engineer_ from 🇳🇱 **The Netherlands**. I get excited by solving (technical) problems, working on personal growth and especially helping others grow.
+I'm a senior software engineer from 🇳🇱 The Netherlands and currently working at Twill, a company by Maersk. I'm passionate about working on innovative products ✨. While doing so, I try to learn as much as possible. What I've learnt I'm very happy to share with others, wether by mentoring or any other means 👨🏾‍💻.
 
-### 🧰 My toolbox
+Besides developing and coding, you can find me watching series or movies 📺. Occassionally I enjoy playing console, board- or cardgames 🎲. From time to time I love to extract myself and take a walk in nature 🍃. 
+
+### 🧐 More about me
+- 💸 Inspired by financial independence concepts
+- 🎮 Nintendo Switch is my favourite console 
+- 🍵 I prefer tea over coffee
+- 💬 Ask me anything, I'm happy to help
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/instagram-%23dc2743?style=for-the-badge&logo=instagram&logoColor=white)
+
+### 🧰 Technologies & tools 
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)
@@ -14,18 +25,3 @@ Welcome to my page! My name is Nazeem. I'm a _Senior Software Engineer_ from �
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47a248)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-%236db33f?style=for-the-badge&logo=spring&logoColor=white)
-
-<!--
-**nazeem-soeltan/nazeem-soeltan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
