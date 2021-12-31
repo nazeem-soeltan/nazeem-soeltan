@@ -10,12 +10,12 @@ Besides developing and coding, you can find me watching series or movies 📺. O
 - 🍵 I prefer tea over coffee
 - 💬 Ask me anything, I'm happy to help
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/instagram-%23dc2743?style=for-the-badge&logo=instagram&logoColor=white)
+<a href="https://www.instagram.com/nazeem.so/" rel="LinkedIn">![LinkedIn](https://img.shields.io/badge/linkedin-%230077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/nazeemsoeltan/" rel="Instagram">![Instagram](https://img.shields.io/badge/instagram-%23dc2743?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 ### 🧰 Technologies & tools 
 
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
