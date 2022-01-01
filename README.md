@@ -10,8 +10,8 @@ Besides developing and coding, you can find me watching series or movies 📺. O
 - 🍵 I prefer tea over coffee
 - 💬 Ask me anything, I'm happy to help
 
-<a href="https://www.instagram.com/nazeem.so/" rel="LinkedIn">![LinkedIn](https://img.shields.io/badge/linkedin-%230077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/nazeemsoeltan/" rel="Instagram">![Instagram](https://img.shields.io/badge/instagram-%23dc2743?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/nazeemsoeltan/" rel="LinkedIn">![LinkedIn](https://img.shields.io/badge/linkedin-%230077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/nazeem.so/" rel="Instagram">![Instagram](https://img.shields.io/badge/instagram-%23dc2743?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 ### 🧰 Technologies & tools 
 
